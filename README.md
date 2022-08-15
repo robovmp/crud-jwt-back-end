@@ -24,28 +24,28 @@ Essas são as tecnologias usadas neste projeto
 
 ### 1 - Ao acessar o projeto, você verá esta página inicial.
 
-![Pagina Inicial](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/home.png)
+![Pagina Inicial](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/home.png)
 
 ### 2 - Para acessar o sistema é necessário o registro.
 
-![Registro](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/register.png)
+![Registro](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/register.png)
 ### 3 - Após finalizar o registro, será redirecionado para a página de login.
 
-![Login](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/login.png)
+![Login](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/login.png)
 
 ### 4 - E-mail e senha autenticados o usuário será redirecionado para o inicio da app.
 
-![inicio](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/appHome.png)
+![inicio](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/appHome.png)
 
 ### 5 - O CRUD da app é bem intuitivo, no formulário principal estão descritos os campos disponíveis para o preenchimento.
 
-![Add](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/add.png)
+![Add](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/add.png)
 
 ### 6 - Cada profissão ao ser preenchida e salva será lista abaixo do formulário, onde estão disponíveis dois botões, edição e remoção.
 
-![editar](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/edit.png)
+![editar](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/edit.png)
 
-![Add](https://github.com/robovmp/crud-jwt-front-end/blob/main/assets/remove.png)
+![Add](https://github.com/robovmp/crud-jwt-front-end/blob/main/media/remove.png)
 
 
 
@@ -54,6 +54,7 @@ Essas são as tecnologias usadas neste projeto
 O intuitivo principal:
  - Realizar autenticação com JWT.
 
+Totalmente responsivo.
 
 ## Links
   - Deploy: https://crudjwt.netlify.app/
